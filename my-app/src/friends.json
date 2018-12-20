@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn-images-1.medium.com/max/1200/1*bbw0fG-fExcsei5XFKEv6Q.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/d/dd/2015-07-14-1436902565-6235018-SpongeBob_5.png/revision/latest?cb=20181020010516",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "http://2.bp.blogspot.com/-gMtJxJ789Xw/U3G4_HgRtAI/AAAAAAAAeDM/QOORuEF3_Jg/s1600/OldPatrickStock5-25-13.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/SpongeBob_SquarePants_Pearl_Krabs.png/220px-SpongeBob_SquarePants_Pearl_Krabs.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://cdn-images-1.medium.com/max/1200/1*DCo5LIbgIWrFIOfl3UAMpA.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "http://sampson.washcoll.edu/~pkinsella2/Final%20Project/images/planktonpic.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/merman_man_2809.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlg497x_luarv-4OdjZYvyrTS6Pf3aZouWt70RIPHUDizuCN0AyQ",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/b/bd/Mr_Krabs.png/revision/latest?cb=20171220225623",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://ih0.redbubble.net/image.415472574.2975/flat,550x550,075,f.u3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://www.standingstills.com/pub/media/catalog/product/cache/75eed2686e01eb22cb4050b2f40ddf97/c/a/cac165-1-1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://ih1.redbubble.net/image.414085600.6195/pp,550x550.u1.jpg",
+    "clicked": false
+  }
+]
